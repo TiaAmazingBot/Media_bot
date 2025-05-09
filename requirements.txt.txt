@@ -1,0 +1,6 @@
+
+pyrogram==2.0.106  
+tgcrypto  
+telethon==1.34.0  
+Flask==2.3.2  
+requests  
